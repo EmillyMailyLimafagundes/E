@@ -2,4 +2,8 @@ body {  background-color: rgb(255, 200, 223);
 
 }
 
-p {color: rgb(146, 20, 31);}
+p { 
+    color: rgb(146, 20, 20);
+}
+
+.detention {color: #630848;}
