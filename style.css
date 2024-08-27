@@ -2,8 +2,9 @@ body {  background-color: rgb(255, 200, 223);
 
 }
 
-p { 
-    color: rgb(146, 20, 125);
-}
+ 
+  p {  color: rgb(146, 20, 125);}
 
-.detention {color: #630808;}
+.detention {color: #8e0f37;} 
+
+  li {  color: rgb(146, 20, 125);}
