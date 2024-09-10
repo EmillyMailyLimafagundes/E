@@ -8,4 +8,9 @@ body {  background-color: rgb(255, 200, 223);
 .detention {color: #8e0f37;} 
 
   li {  color: rgb(146, 20, 125);} 
-  
+  header {
+     border-bottom: solid 2 px rgb(rgb(255, 151, 155);
+padding: 20 px;
+font-size: 20 px;
+text-decoration: none;
+  }
