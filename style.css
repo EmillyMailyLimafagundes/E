@@ -1,17 +1,15 @@
 body {  background-color: rgb(255, 200, 223);
 text-align: center;
-margin: 8px;
-}
-
- 
-  p {  color: rgb(146, 20, 125);}
-
-.detention {color: #8e0f37;} 
-
-  li {  color: rgb(146, 20, 125);} 
+margin: 0px;
+} 
   header {
      border-bottom: solid 2 px rgb(rgb(255, 151, 155);
      padding: 20px;
      font-size: 32px;
      color: #f79bb8;
   }
+  p {  color: rgb(146, 20, 125);}
+
+  .detention {color: #8e0f37;} 
+  
+    li {  color: rgb(146, 20, 125);}
