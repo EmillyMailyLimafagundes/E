@@ -3,11 +3,13 @@ text-align: center;
 margin: 0px;
 } 
   header {
-     border-bottom: solid 2 px rgb(rgb(255, 151, 155);
+     border-bottom: solid 2px (rgb(255, 151, 155);
+     margin-top: 5px;
      padding: 20px;
      font-size: 32px;
+     text-decoration: none;
      color: #f79bb8;
-  }
+    }
   p {  color: rgb(146, 20, 125);}
 
   .detention {color: #8e0f37;} 
