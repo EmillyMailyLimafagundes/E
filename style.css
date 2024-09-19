@@ -4,13 +4,13 @@ margin: 10px;
 } 
   header {
      border-bottom: solid 2px (rgb(255, 151, 155);
-     margin-top: 5px;
-     padding: 20px;
-     font-size: 80px;
+     margin-top: 15px;
+     padding: 30px;
+     font-size: 100px;
      color: #cc0041;
     }
   p {  color: rgb(252, 52, 102);}
 
   .detention {color: #db1dbb;} 
 
-    li {  color: rgb(114, 4, 96);}
+    li {  color: rgb(177, 22, 151);}
