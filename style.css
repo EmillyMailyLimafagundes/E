@@ -1,13 +1,13 @@
 body {  background-color: rgb(255, 200, 223);
 text-align: center;
-margin: 0px;
+margin: 10px;
 } 
   header {
      border-bottom: solid 2px (rgb(255, 151, 155);
      margin-top: 5px;
      padding: 20px;
      font-size: 80px;
-     color: #f79bb8;
+     color: #cc0041;
     }
   p {  color: rgb(252, 52, 102);}
 
