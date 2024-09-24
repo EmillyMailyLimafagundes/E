@@ -3,7 +3,7 @@ text-align: center;
 margin: 10px;
 } 
   header {
-     border-bottom: solid 2px (rgb(255, 151, 150) ; 
+     border-bottom: solid 2px (rgb(233, 233, 233) ; 
      margin-top: 15px;
      padding: 30px;
      font-size: 500px;
@@ -15,4 +15,4 @@ margin: 10px;
 
     li {  color: rgb(177, 22, 151);}
     img {height: 200px;}
-  h1 {height: 90;}
+  h1 {height: 130;}
