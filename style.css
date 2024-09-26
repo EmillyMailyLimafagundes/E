@@ -1,17 +1,18 @@
-body {  background-color: rgb(255, 200, 223);
+body {  background-color: rgb(253, 218, 233);
 text-align: center;
-margin: 10px;
+margin: 0px;
 } 
-  header {
-     border-bottom: solid 2px (rgb(233, 233, 233) ; 
-     margin-top: 15px;
-     padding: 30px;
+  nav a {
+     margin-top: 5px;
+     padding: 2px;
      font-size: 500px;
      color: #cc0041;
+     display: flex;
+     justify-content: center;
     }
-  p {  color: rgb(252, 52, 102);}
-
-  .detention {color: #db1dbb;} 
+    h1 {color: #8a143b;}
+  p {  color: rgb(194, 24, 66);}
+  .detention {color: #902fa3ea;} 
 
     li {  color: rgb(177, 22, 151);}
     img {height: 200px;}
