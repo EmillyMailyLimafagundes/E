@@ -1,29 +1,24 @@
 body {  background-color: rgb(253, 218, 233);
-
 text-align: center;
-
-margin: 100px;
+margin: 0px;
+font-family: serif;
 
 } 
-  nav a
-   {
-     margin-top: 50px;
-
-     padding: 200px;
-
-     font-size: 500px;
-
+  header
+   { border-bottom: solid 2px #8a143b;
+     padding: 20px;
+     font-size: 50px;
      color: #cc0041;
-
      display: flex;
-
      justify-content: center;
 
     }
 
-    h1 {color: #8a143b;}
+    h1 {color: #8a143b;
+    font-size: 60px;}
 
-p {color: #440116;}
+p {color: #440116;
+font-size: 30px;}
 
   .detention {color: #902fa3ea;} 
 
